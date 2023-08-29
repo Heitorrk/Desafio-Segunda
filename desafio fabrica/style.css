@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+}
+
+.all {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    margin-top: 156px;
+}
+
+.login {
+    color: white;
+}
+
+.email {
+    color: white;
+}
+
+.botao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    color: white;
+    background-color: #2FB23C;
+    Width: 191px;
+    Height: 67px;
+    border-radius: 10px;
+    Padding: 32px, 79px, 32px, 79px;
+    Gap: 10px;
+    font-family: Poppins;
+    font-size: 31px;
+    font-weight: 500;
+    line-height: 47px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+input {
+    background: #353535;
+    border-radius: 4px;
+    border-color: #C5C2C2;
+    width: 466px;
+    height: 86px;
+}
